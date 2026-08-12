@@ -5,14 +5,14 @@ Bem-vindo(a) ao meu perfil! Sou aluno iniciante em Full Stack começando uma nov
 
 ---
 
-## 🚀 Meu Projeto em Destaque
+## Meu Projeto em Destaque
 
 ### [Analizadordegolpe]
 > **Descrição rápida:** Ajudar e evitar possíveis modalidades de golpe.
 
 ---
 
-## 📬 Conecte-se comigo
+## Conecte-se comigo
 
 [![LinkedIn](https://www.linkedin.com/in/rodrigo-o-da-silva-ortiz-46a32b429/)
 [![GitHub](https://github.com/residenciafullstack-blip)
