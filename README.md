@@ -1,4 +1,3 @@
-Markdown
 # Olá, eu sou o Rodrigo Ortiz
 
 Bem-vindo(a) ao meu perfil! Sou aluno iniciante em Full Stack começando uma nova jornada na área de tecnologia.
