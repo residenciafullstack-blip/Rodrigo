@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu perfil! Sou aluno iniciante em Full Stack começando uma nov
 ## 🚀 Meu Projeto em Destaque
 
 ### [Analizadordegolpe]
-> **Descrição rápida:** Uma breve explicação do que o seu projeto faz e qual problema ele resolve.
+> **Descrição rápida:** Ajudar e evitar possíveis modalidades de golpe.
 
 ---
 
